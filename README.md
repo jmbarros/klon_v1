@@ -12,7 +12,7 @@ This procedure requires you to have one computer with the following software:
 Just run this command, at your linux, to install the inception server:
 
 ```
-curl -l https://raw.githubusercontent.com/jmbarros/icp_inception/master/inception.py | /usr/bin/python
+curl -l https://raw.githubusercontent.com/jmbarros/klon_v1/master/inception.py | /usr/bin/python
 ```
 
 Simple, no?
