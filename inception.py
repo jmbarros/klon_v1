@@ -41,6 +41,6 @@ def copy ( ori, dest ):
 yum_install("epel-release")
 yum_install( "ansible" )
 yum_install( "git" )
-git("https://github.com/jmbarros/icp_inception.git")
+git("https://github.com/jmbarros/klon_v1.git")
 install_galaxy( "jmbarros.icp" )
 play_book( "klon_v1/inception.yml")
